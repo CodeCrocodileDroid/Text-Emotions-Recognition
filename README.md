@@ -1,6 +1,22 @@
 # Text-Emotions-Recognition
 Python Machine Learning
 
+Emotion Text Classifier
+A machine learning system that classifies text into emotional categories (joy, sadness, anger, fear, surprise, disgust, neutral, shame) using natural language processing and various classification algorithms.
+
+Features
+Multi-Emotion Classification: Detects 8 different emotions from text
+
+Multiple ML Models: Implements 7 different classification algorithms
+
+Advanced Text Preprocessing: Includes cleaning, tokenization, lemmatization, and stopword removal
+
+Comprehensive Evaluation: Provides accuracy scores, confusion matrices, and classification reports
+
+Feature Analysis: Identifies important words for each emotion
+
+Easy Prediction: Simple function to predict emotions for new text
+
 Key Features:
 Data Loading & Exploration: Loads the CSV file and shows emotion distribution
 
